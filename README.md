@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://postimg.cc/rKzVVnZZ" alt="Python Challenge Banner" width="100%" />
+  <img src="https://github.com/mitanshhh/mitanshhh/blob/main/banner.png" alt="Python Challenge Banner" width="100%" />
 </p>
+
 <h1 align="center">Heyy there! Im Mitansh</h1>
 <h3 align="center">Building intelligent solutions with Python, one line of code at a time</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitanshhh&label=Profile%20views&color=0e75b6&style=flat" alt="mitanshhh" /> </p>
 
