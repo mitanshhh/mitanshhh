@@ -1,4 +1,6 @@
-![My GitHub Banner](https://chatgpt.com/s/m_6814f7a37548819196b9814e17704193)
+<p align="center">
+  <img src="https://postimg.cc/rKzVVnZZ" alt="Python Challenge Banner" width="100%" />
+</p>
 <h1 align="center">Heyy there! Im Mitansh</h1>
 <h3 align="center">Building intelligent solutions with Python, one line of code at a time</h3>
 
