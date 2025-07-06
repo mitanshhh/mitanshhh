@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/mitanshhh/mitanshhh/blob/main/banner.png" alt="Python Challenge Banner" width="100%" />
 </p>
 
 <h1 align="center">Heyy there! Im Mitansh</h1>
